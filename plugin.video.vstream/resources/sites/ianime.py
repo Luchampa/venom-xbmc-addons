@@ -22,7 +22,7 @@ SITE_IDENTIFIER = 'ianime'
 SITE_NAME = 'I anime'
 SITE_DESC = 'Animés en streaming'
 
-URL_MAIN = 'https://www.ianimes.top/'
+URL_MAIN = 'https://www.ianimes.org/'
 
 MOVIE_MOVIE = (URL_MAIN + 'films.php?liste=' + RandomKey, 'ShowAlpha')
 MOVIE_GENRES = (URL_MAIN + 'films.php?liste=' + RandomKey, 'showGenres')
